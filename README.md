@@ -1,7 +1,7 @@
-# EECS 731 Project 5 - World Wide Products Inc.
+# EECS 738 Project 1 - Probably Interesting Data.
 
-Data - Contains the csv file for Historical Product Demand data downloaded from kaggle.
+Data - Contains the 2 csv files for Iris data and Boston Housing Data downloaded from kaggle.
 
-Notebook - Includes a notebook in which we do the whole analysis and ML model implementation.
+Notebook - Includes 2 notebooks in which both the datasets are used to apply KMeans and GMM clustering models.
 
-Requires Pandas, scikit-learn, keras and numpy libraries to be installed.
+Requires Pandas, and numpy libraries to be installed.
