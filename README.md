@@ -1,4 +1,4 @@
-# EECS 738 Project 1 - Probably Interesting Data.
+# Probably Interesting Data.
 
 Data - Contains the 2 csv files for Iris data and Boston Housing Data downloaded from kaggle.
 
